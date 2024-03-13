@@ -141,4 +141,4 @@ digitalWrite(LED_GREEN_2,HIGH);
 t2_den1 = 17;
 t2_den2 = 15;
 }
-// free mà tới đây thôi hehe
+// hehe để đây mai đăng đầy đủđủ
